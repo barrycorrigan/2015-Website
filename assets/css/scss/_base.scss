@@ -1,0 +1,82 @@
+/*------------------------------------*\
+    #BASE
+\*------------------------------------*/
+
+
+body {
+    color: #333;
+    background: #fff;
+    font: 14px/22px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+    -webkit-text-size-adjust: 100%;
+}
+
+/**
+  * Typography
+*/
+
+
+
+
+
+/**
+  * Links
+*/
+
+
+a {
+    color: #cccccc;
+}
+
+
+/**
+  * Forms
+*/
+
+
+/**
+  * Images
+*/
+
+
+img {
+    border: none;
+}
+
+
+/**
+  * General / Combo
+*/
+
+
+img,video,audio,iframe,object{
+    max-width:100%;
+}
+
+
+.primary   { color: $primary-colour;   }
+.secondary { color: $secondary-colour; }
+.light     { color: $light-colour;     }
+.medium    { color: $medium-colour;    }
+.dark      { color: $dark-colour;      }
+
+.align-center { text-align: center; }
+.align-left   { text-align: left;   }
+.align-right  { text-align: right;  }
+
+.normal  { font-weight: normal; }
+.newline { display: block; }
+
+
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+       -moz-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    width: 100%;
+    z-index: 100;
+}
+

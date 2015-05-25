@@ -1,0 +1,65 @@
+/*------------------------------------*\
+    #VARIABLES
+\*------------------------------------*/
+
+/**
+  * Responsive breakpoints
+*/
+
+$small-break: 480px;
+$big-break: 767px;
+
+$primary-colour: #44bbaa;
+$secondary-colour: #161616;
+$tertiary-colour: #226a60;
+
+
+/**
+  * 1. Foreground colour is the white
+  * 2. Background colour is the grey
+  * 3. Body colour is the main colour of the content
+  * 4. Dark colour is a colour if you want a dark text colour
+*/
+
+$foreground-colour: #ffffff;
+$background-colour: #f5f5f5;
+$body-colour: #333333;
+$light-colour: #aaaaaa;
+$medium-colour: #666666;
+$dark-colour: #111111;
+
+
+/**
+  * 1. Default font size is 16px.
+  * 2. The rest are various font sizes used throughout the site
+*/
+
+$base-font-size: 16;
+$xx-small: 11;
+$x-small: 12;
+$small: 13;
+$medium: 14;
+$large: 15;
+$x-large: 20;
+$xx-large: 36;
+
+
+/**
+ * These rules are for font-weights for the fonts we are using
+*/
+
+$normal: 100;
+$bold: bold;
+
+
+/**
+ * 1. Our main font is Maax and we have three variants (Reg, Medium and Bold)
+ * 2. The other font is Freight this is used for the body text
+*/
+
+
+$helvetica: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$opensans: 'Open Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$pt-serif: 'PT Serif', Georgia, serif;
+
+
