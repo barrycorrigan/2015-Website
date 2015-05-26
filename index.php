@@ -69,7 +69,7 @@
 
 			<div class="four  columns">
 
-				<a href="https://github.com/barrycorrigan" class="link  link--source">View Source</a>
+				<a href="https://github.com/barrycorrigan/2015-Website" class="link  link--source">View Source</a>
 				<!-- <a href="#" class="link  link--pdf">Download PDF</a> -->
 				<a href="https://twitter.com/barrycorrigan" class="link  link--twitter">@barrycorrigan</a>
 
