@@ -348,7 +348,7 @@
 							</p>
 
 							<p class="info--margin-top">
-								I was primarily responsible for the design, development and maintenance of client's websites and digital communications. this includes the design of web pages and online graphics, development of functionality and content management support and email marketing campaigns.
+								I was primarily responsible for the design, development and maintenance of client's websites and digital communications. This includes the design of web pages and online graphics, development of functionality and content management support and email marketing campaigns.
 							</p>
 
 						</div>
