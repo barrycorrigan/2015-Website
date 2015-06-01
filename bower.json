@@ -1,0 +1,19 @@
+{
+  "name": "barry",
+  "version": "0.0.0",
+  "homepage": "https://github.com/barrycorrigan/2015-Website",
+  "authors": [
+    "Barry Corrigan <barry@fishtankcreative.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.3.0"
+  }
+}

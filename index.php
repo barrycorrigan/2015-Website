@@ -94,82 +94,83 @@
 
 				</div>
 
-				<div class="thirteen  columns">
+				<div class="thirteen  columns  item">
 
-					<div class="level">
+					<div>
+						<h4 class="h4  primary">Previous experience</h4>
 
-						<h3 class="title  caps">HTML5 / Semantics</h3>
+						<p class="secondary  newline"><em>I understand key server-side web development concepts through experiences such as:</em></p>
 
-						<div class="skill" data-percent="95%">
-							<span class="bar">Expert</span>
-						</div>
+						<ul>
+							<li>Taking design mockups and creating them in HTML, CSS and Javascript.</li>
+							<li>Creating visually appealing web pages or interfaces.</li>
+							<li>Creating, editing or modifying templates for a CMS or web development framework. (Good example of this is <a href="http://tv.wiganwarriors.com/">Wigan TV</a></li>
+							<li>Programming interaction with JavaScript and/or a library such as jQuery, YUI or Prototype.</li>
+							<li>Testing cross-browser, cross-platform, and/or cross-device compatibility for inconsistencies.</li>
+							<li>Testing for compliance to specified standards such as accessibility standards.</li>
+							<li>Conducting observational user testing, or reviewing designs against usability heuristics.</li>
+						</ul>
 
-						<p class="info">Expert Knowledge <em class="h5  italic  light">(No one can ever be 100%)</em></p>
+						<h4 class="h4  primary">Domain specific knowledge or transferable skills</h4>
 
-					</div>
+						<p class="secondary  newline"><em>Experience with web development languages of HTML, CSS and JavaScript/jQuery.</em></p>
 
+						<h4 class="h4  primary">HTML</h4>
 
-					<div class="level">
-
-						<h3 class="title  caps">CSS3 / SASS / SCSS</h3>
-
-						<div class="skill" data-percent="95%">
-							<span class="bar">Expert</span>
-						</div>
-
-						<p class="info">Expert Knowledge <em class="h5  italic  light">(No one can ever be 100%)</em></p>
-
-					</div>
-
-
-					<div class="level">
-
-						<h3 class="title  caps">JavaScript / jQuery</h3>
-
-						<div class="skill" data-percent="80%">
-							<span class="bar">Highly Competent</span>
-						</div>
-
-						<p class="info">Highly Competent</p>
-
-					</div>
+						<ul>
+							<li>Familiarity of HTML syntax for multiple specifications, including HTML 5.</li>
+							<li>Knowledge of the semantic meaning of all HTML elements.</li>
+							<li>Familiarity with the semantic markup for display of lists, tabular data, forms, articles, etc.</li>
+							<li>Knowledge of markup used for layout such as dividers.</li>
+							<li>Knowledge at the level to be able to hand-code markup.</li>
+							<li>Including media and images.</li>
+						</ul>
 
 
-					<div class="level">
+						<h4 class="h4  primary">CSS</h4>
 
-						<h3 class="title  caps">Responsive / Mobile</h3>
+						<ul>
+							<li>Specifying different CSS for various media, devices and displays.</li>
+							<li>Best practices in CSS file organization and structure.</li>
+							<li>Methods for including CSS inline, internal and external via linked style sheets.</li>
+							<li>How to define, combine and group CSS selectors for HTML elements, ID, classes, pseudo classes, child or sibling.</li>
+							<li>Syntax of CSS declarations, properties and attributes.</li>
+							<li>CSS box model and methods for CSS positioning, absolute and relative.</li>
+							<li>Knowledge of properties and attributes to control the display.</li>
+							<li>Proficient with a CSS Preprocessor. My preferred is Sass.</li>
+						</ul>
 
-						<div class="skill" data-percent="95%">
-							<span class="bar">Expert Knowledge</span>
-						</div>
+						<h4 class="h4  primary">Best practices</h4>
 
-						<p class="info">Expert Knowledge  <em class="h5  italic  light">(No one can ever be 100%)</em></p>
+						<ul>
+							<li>Methods to ensure browser &amp; device compatibility</li>
+							<li>Methods for degrading gracefully for older browsers and displays.</li>
+							<li>Methods to ensure accessibility.</li>
+							<li>File compression techniques for improving speed.</li>
+						</ul>
 
-					</div>
+						<h4 class="h4  primary">JavaScript</h4>
 
+						<ul>
+							<li>Knowledge of the operators, variables, datatypes, objects, properties and methods.</li>
+							<li>Familiarity with control structures such as objects, functions, conditional statements, arrays, loops and expressions.</li>
+							<li>Knowledge of how to apply logical operators and conditional statements.</li>
+							<li>Knowledge of the DOM HTML objects and their properties.</li>
+						</ul>
 
-					<div class="level">
+						<h4 class="h4  primary">Event handling</h4>
 
-						<h3 class="title  caps">SEO</h3>
+						<ul>
+							<li>Creating and controlling windows and dialogs.</li>
+							<li>Processes for troubleshooting and debugging</li>
+							<li>Familiarity with development and debugging tools for cross-browser issues.</li>
+						</ul>
 
-						<div class="skill" data-percent="70%">
-							<span class="bar">Extensive Knowledge</span>
-						</div>
+						<h4 class="h4  primary">jQuery</h4>
 
-						<p class="info">Extensive Knowledge</p>
-
-					</div>
-
-
-					<div class="level">
-
-						<h3 class="title  caps">Performance</h3>
-
-						<div class="skill" data-percent="80%">
-							<span class="bar">Extensive Knowledge</span>
-						</div>
-
-						<p class="info">Extensive Knowledge</p>
+						<ul>
+							<li>Knowledge of how to employ the jQuery library for visual effects, event handling, and document manipulation.</li>
+						</ul>
 
 					</div>
 

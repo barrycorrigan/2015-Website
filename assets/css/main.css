@@ -991,7 +991,8 @@ img {
 .item > div {
   padding-top: 15px; }
   .item > div ul {
-    margin-left: 18px; }
+    margin-left: 18px;
+    margin-bottom: 20px; }
     .item > div ul li {
       font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 15px;
